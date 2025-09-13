@@ -1,8 +1,0 @@
-fasthtml==0.1.0
-google-generativeai==0.8.3
-Pillow==10.0.1
-PyMuPDF==1.23.8
-PyGithub==1.59.1
-requests==2.31.0
-python-dotenv==1.0.0
-
